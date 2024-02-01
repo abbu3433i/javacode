@@ -1,0 +1,8 @@
+***"continue"***
+1. continue cursor ka control le lega or aage print nhi hone dega and loop ke 'begning'[starting] me bhej dega naya iteration chalane ke liye...
+ 
+2. In sum programming sistuation we want to take the control to the begining of the 
+loop by passing the statement inside the loop which have not get free executed
+
+3. The keyword continue allows us to this when continue is encountered inside the 
+loop control jums to begining of the loop  for perfoming next iteration. A continue usually associate with an 'if'.

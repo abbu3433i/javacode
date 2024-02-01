@@ -1,0 +1,31 @@
+************Control statement**************
+
+public class a_5note5 {
+    
+*********conditional operator  *******                        *********  logical operator********
+//   <                                                                      &&->logical AND
+//   >                                                                      ||->logical OR
+//                                                                           !->logical NOT
+//   ==
+//   <=
+//   >=
+//   return true and false
+                                                               ********truth tabale in java*********
+
+                                                            //     (true && true) -> true
+                                                            //     (true && true) -> false
+                                                            //     (true && true) -> false
+                                                            //     (true && true) -> false
+
+
+// *1. n=12569, "n/10"-> ye n ki aage ki value return krr dega '1256'.----------------(division)
+// *2. n=12569, "n%10"-> ye n ki last value ko return krr dega '9'.-------------------(Reminder)
+
+
+
+
+// 1.*******ladderform*****if ke baad-> if,else if,****
+// 2.*********Nestedform******if ke andar if,else if****
+
+
+}
